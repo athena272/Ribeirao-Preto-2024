@@ -5,5 +5,5 @@ def inverter_string(texto):
     return inverso
 
 # Exemplo de uso
-texto = input("Digite um número para verificar: ")
+texto = input("Digite uma string para ser invertida: ")
 print(inverter_string(texto)) # Saída: "odnuM alO"
